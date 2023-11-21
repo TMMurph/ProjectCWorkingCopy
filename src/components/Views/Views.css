@@ -1,0 +1,40 @@
+body {
+    background-color: grey;
+    color: whitesmoke;
+    
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 350%;
+    font-weight: normal;
+
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 200%;
+    font-weight: normal;
+
+}
+.button {
+    background-color: whitesmoke; 
+    color: grey;
+    padding: 15px 25 px;
+    text-align: center;
+    border: none;
+    display: block;
+    width: 20%;
+    
+}
+    
+
+
+
+
+
+
+
+

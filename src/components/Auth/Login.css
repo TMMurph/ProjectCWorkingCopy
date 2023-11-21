@@ -1,0 +1,125 @@
+
+fieldset {
+    padding-top: 15px;
+    padding-bottom: 30px;
+    color: grey;
+    background-color: lightgray;
+    border: hidden; 
+    margin: auto;
+    
+    
+}
+
+
+.form--login {
+    display: block;
+    text-align: center;
+    min-height: 65%;
+    min-width: 50%;
+    max-width: 50%;
+    background-color: whitesmoke;
+    font-size: 24px;
+    color: whitesmoke;
+    border: hidden;
+    padding: 15px;
+    margin: auto
+}
+
+
+
+.form--login > fieldset > input[type="email"] {
+    width: 35%;
+    background-color: whitesmoke;
+    color: grey;
+    margin: auto;
+    border: hidden;
+       
+    
+}
+
+.form--register {
+    display: block;
+    padding: 10px;
+    color: grey;
+    background-color: whitesmoke;
+    border: hidden; 
+    margin: auto;
+    min-width: 50%;
+    max-width: 50%;
+    min-height: 65%;
+    font-size: 24px;
+    color: grey;
+    
+}
+
+
+    
+
+
+
+.form--register > fieldset > input[type="email"] {
+    width: 45%;
+    background-color: whitesmoke;
+    color: grey;
+    margin: auto;
+    border: hidden;
+    margin-top: 10px;
+    
+
+}
+
+.form--register > fieldset > input[type="text"] {
+    width: 45%;
+    background-color: whitesmoke;
+    color: grey;
+    margin: auto;
+    border: hidden;
+    margin-top: 10px;
+}
+
+
+.form-control {
+    display: block;
+    padding: 10px 24px;
+    border-radius: 4px;
+    font-size: 14px;
+    
+      
+    
+}
+
+a:link, a:visited {
+    background-color: whitesmoke;
+    color: grey;
+    border: hidden;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 35%;
+    margin-bottom: 15px;
+  margin-top: 5px;
+  
+}
+
+
+  button {
+    margin: auto;
+  display: block;
+  border-radius: 4px;
+  border: hidden;
+  font-size: 14px;
+  height: 40px;
+  color: grey;
+  background-color: whitesmoke;
+  margin-bottom: 15px;
+  margin-top: 5px;
+  width: 35%;
+
+  } 
+
+
+
+

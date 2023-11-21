@@ -1,0 +1,53 @@
+body {
+  background-color: grey;
+  color: whitesmoke;
+  
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-size: 350%;
+  font-weight: normal;
+
+}
+
+h2, h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-size: 200%;
+  font-weight: normal;
+
+}
+
+h4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-size: 150%;
+  font-weight: normal;
+}
+
+
+button {
+  margin: auto;
+  display: block;
+  border-radius: 4px;
+  border: hidden;
+  width: 20%;
+  height: 50px;
+  color: grey;
+  background-color: whitesmoke;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  

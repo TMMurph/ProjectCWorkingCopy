@@ -1,0 +1,33 @@
+
+.userForm {
+
+display: block;
+max-width: 50%;
+padding: 15px;
+color: grey;
+background-color: whitesmoke;
+border: hidden; 
+margin: auto;
+min-width: 40%;
+max-width: 60%;
+min-height: 65%;
+font-size: 24px;
+color: grey;
+text-align: center;
+
+}
+
+
+
+
+fieldset {
+    padding-top: 15px;
+    padding-bottom: 30px;
+    color: whitesmoke;
+    background-color: grey;
+    border: hidden; 
+    margin: auto;
+    text-align: center;
+    
+}
+
